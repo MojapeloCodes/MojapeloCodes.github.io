@@ -1,78 +1,45 @@
-# MojapeloCodes.github.io
-I am Tshepiso Mojapelo, a passionate software developer and systems administrator who thrives at the intersection of technology and creativity. My journey is a fusion of code, design, and innovation, where every project is an opportunity to build, learn, and inspire.
-
-<div class="header">
-  <a href="#default" class="logo">CompanyLogo</a>
-  <div class="header-right">
-    <a class="active" href="#home">Home</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
-  </div>
-</div>
-
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <link rel="stylesheet" href="assets/style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tshepiso's Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
+<body>
+  <header>
+    <h1>Hi, I'm Tshepiso 👋</h1>
+    <p>Helpdesk Technician | Software Developer | Graphic Design Enthusiast</p>
+  </header>
 
-/* assets/style.css */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #121212;
-    color: #fff;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-}
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
 
-h1 {
-    color: #00ffcc;
-    font-size: 2.5em;
-}
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I love learning, building software, and sharing knowledge. I'm currently exploring networking and cybersecurity too!</p>
+  </section>
 
-.container {
-    max-width: 800px;
-    margin: auto;
-    padding: 20px;
-}
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>DX CC&B Upload Wiki</strong> – A knowledgebase for resolving upload issues.</li>
+      <li><strong>Chronicles_The Journey</strong> – My personal learning blog and newsletter site.</li>
+    </ul>
+  </section>
 
-button {
-    background-color: #00ffcc;
-    color: #121212;
-    padding: 10px 20px;
-    border: none;
-    cursor: pointer;
-    font-size: 1.2em;
-}
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: your.email@example.com</p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">yourusername</a></p>
+  </section>
 
-button:hover {
-    background-color: #ff0077;
-    color: white;
-}
-
-<div class="hero">
-    <h1>Welcome to My Website</h1>
-    <p>I'm Tshepiso, a Software Developer & Designer</p>
-    <button>Learn More</button>
-</div>
-
-.hero {
-    background: url('assets/images/hero-bg.jpg') center/cover no-repeat;
-    height: 500px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px;
-    padding: 20px;
-}
-
-.card {
-    background: #222;
-    padding: 20px;
-    border-radius: 10px;
-}
+  <footer>
+    <p>© 2025 Tshepiso. All rights reserved.</p>
+  </footer>
+</body>
+</html>
