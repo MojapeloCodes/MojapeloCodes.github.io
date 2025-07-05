@@ -1,45 +1,28 @@
-<!-- index.html -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Tshepiso's Portfolio</title>
-  <link rel="stylesheet" href="styles.css" />
-</head>
-<body>
-  <header>
-    <h1>Hi, I'm Tshepiso 👋</h1>
-    <p>Helpdesk Technician | Software Developer | Graphic Design Enthusiast</p>
-  </header>
+**Project Title**
+# My Personal Portfolio Website
 
-  <nav>
-    <a href="#about">About</a>
-    <a href="#projects">Projects</a>
-    <a href="#contact">Contact</a>
-  </nav>
+**Project description**
+A personal website showcasing my learning journey, graphic design projects, blog and tech portfolio.
 
-  <section id="about">
-    <h2>About Me</h2>
-    <p>I love learning, building software, and sharing knowledge. I'm currently exploring networking and cybersecurity too!</p>
-  </section>
+🔗 [Visit the site]((https://mojapelocodes.github.io/))
 
-  <section id="projects">
-    <h2>Projects</h2>
-    <ul>
-      <li><strong>DX CC&B Upload Wiki</strong> – A knowledgebase for resolving upload issues.</li>
-      <li><strong>Chronicles_The Journey</strong> – My personal learning blog and newsletter site.</li>
-    </ul>
-  </section>
+**Main Features**
+<ol>
+  <li>About Me</li>
+  <li>My Learning Journey Blog</li>
+  <li>Graphic Design Portfolio</li>
+  <li>Contact Form</li>
+</ol>
 
-  <section id="contact">
-    <h2>Contact</h2>
-    <p>Email: your.email@example.com</p>
-    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">yourusername</a></p>
-  </section>
+**Tech Stack**
+<ol>
+  <li> **Frontend:** HTML, CSS, JavaScript</li>
+  <li>**Design:**Adobe Photoshop, Adobe Illustrator, Canva</li>
+  <li>**Hosting**: Github Pages</li>
+</ol>
 
-  <footer>
-    <p>© 2025 Tshepiso. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+**Created by: Tshepiso Mojapelo**
+📧 ttmojapelo14@gmail.com 
+💼 [LinkedIn](https://www.linkedin.com/in/tshepiso-mojapelo-b26267204/)
+
+
