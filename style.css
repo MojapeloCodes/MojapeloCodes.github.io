@@ -1,4 +1,8 @@
 /* styles.css */
+#header {
+  text-align: left;
+}
+
 body {
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
